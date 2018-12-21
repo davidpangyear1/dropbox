@@ -1,11 +1,15 @@
+Usage guide of janeczku:docker
+
+Prerequisite:
+Ubuntu 18.04
+docker
+
 REF:
 https://hub.docker.com/r/janeczku/dropbox/
 https://valh.io/blog/Dockerize-Dropbox-on-Linux
 
-Must install docker before
-
 !!! WARNING !!!
-NEVER put file into the Dropbox folder if the container is not running
+NEVER put files into the Dropbox folder if the container is not running
 
 install:
 1. ./install-and-boot.sh
