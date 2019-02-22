@@ -1,1 +1,1 @@
-docker container dropbox stop
+docker container stop dropbox

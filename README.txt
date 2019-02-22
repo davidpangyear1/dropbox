@@ -1,4 +1,4 @@
-Usage guide of janeczku:docker
+Usage guide of janeczku:dropbox docker image
 
 Prerequisite:
 Ubuntu 18.04
