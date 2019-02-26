@@ -13,6 +13,9 @@ NEVER put files into the Dropbox folder if the container is not running
 
 install:
 1. ./install-and-boot.sh
+    NOTES:
+        The --restart=always is optional;
+        It is convenient but sometimes it might make shutting down the host computer time-consuming.
 2. ./logs.sh
 3. Click the link to sync dropbox with your container
 
