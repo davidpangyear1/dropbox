@@ -1,1 +1,1 @@
-docker container dropbox start
+docker container dropbox restart
